@@ -32,4 +32,10 @@ function vowelOne(s){
 3. JavaScript https://learn.javascript.ru/
 4. SkillBox Frontend-разработчик PRO
 4. Udemy JavaScript 
+---
+##Language:
+- English - Elementary 
+- Polish  - Elementary 
+- Russian - Native
+
 
