@@ -13,7 +13,7 @@ I work as a Regional Manager.  I really interesting new knowledgewhere I can dev
 ## Skills and Proficiency:
 - HTML5, CSS3
 - JavaScript Basics
-- VS Code, Adobe Photoshop
+
 ---
 ## Code example:
 **Peak array index KATA from CODEWARS:** 
@@ -31,7 +31,7 @@ function vowelOne(s){
 2. JS, CSS, HTML, Git video courses on YouTube 
 3. JavaScript https://learn.javascript.ru/
 4. SkillBox Frontend-разработчик PRO
-5. Udemy JavaScript 
+
 ---
 ## Language:
 - English - Elementary 
